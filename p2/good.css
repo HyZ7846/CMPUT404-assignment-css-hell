@@ -1,0 +1,97 @@
+/* Reset default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set a background color for the page */
+  body {
+    background-image: url("N5TtnG.webp");
+
+  }
+  
+  /* Set the font family and size for the whole page */
+  body, button, input, select, textarea {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  /* Style the header */
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  header h1 {
+    font-size: 36px;
+    font-weight: bold;
+  }
+  
+  /* Style the container */
+  .container {
+    margin: 40px auto;
+    max-width: 600px;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .container p {
+    margin-bottom: 20px;
+  }
+  
+  .container span {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .container img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Style the buttons */
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  /* Change button style on hover */
+  .btn:hover {
+    background-color: #444;
+  }
+  
+  /* Style the footer */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+  }
+  
+  #phone a, #email a, #follow a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  #phone p, #email p, #follow p {
+    margin-bottom: 10px;
+  }
+  
