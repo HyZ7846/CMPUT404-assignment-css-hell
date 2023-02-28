@@ -21,4 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-
+Modification
+===============
+  - add a link tag in html files to get more styles
+  - create a style.css file, including changes:
+    - add background image
+    - add font-family
